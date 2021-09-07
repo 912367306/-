@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding/run.py=UTF-8
+encoding/train_eval.py=UTF-8
+encoding/utils.py=UTF-8
+encoding/utils_fasttext.py=UTF-8
